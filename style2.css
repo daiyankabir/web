@@ -1,0 +1,69 @@
+<style>
+    body{
+      margin:0;
+      padding:0px 50px;
+    }
+    a{
+      text-decoration:none;
+    }
+    .header_area{
+      width:100%;
+      
+      
+    }
+    .logoarea{
+      width:35%;
+      float:left;
+      background-color:#5F9EA0;
+    }
+    .logoarea h1{
+      padding-left:30px;
+    }
+    .menu_area{
+      width:65%;
+      float:left;
+      background-color:#5F9EA0;
+    }
+    .menu_area ul{
+      list-style:none;
+      text-align:right;
+    }
+    .menu_area ul li{
+      display:inline-block;
+      padding:15px;
+      color:white;
+    }
+    .menu_area ul li a{
+      
+      color:white;
+    }
+    .content_area{
+      height:500px;
+      width:100%;
+      overflow:hidden;
+    }
+    .content_left{
+      width:35%;
+      float:left;
+    }
+    
+    .content_right{
+      width:65%;
+      float:left;
+    }
+    .footer_area{
+      width:100%;
+      overflow:hidden;
+    }
+    .footer_area h3{
+      text-align:center;
+    }
+    .content_right_l{
+      width:50%;
+      float:left;
+    }
+    .content_right_l{
+      width:50%;
+      float:left;
+    }
+  </style>
